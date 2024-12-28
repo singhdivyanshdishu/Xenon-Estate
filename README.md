@@ -5,13 +5,14 @@
 
 ## Features  
 
-* **Fully Responsive :** Designed to adapt seamlessly to any screen size, providing a consistent and user-friendly experience across all devices.  
+* **AI-Powered Recommendations :** Utilize collected data to deliver personalized property suggestions, enhancing the user experience and relevance of search results.
 * **Advanced User Authentication :** Securely create accounts, log in, and log out with a streamlined and secure process.  
 * **Email Verification :** Ensure account security by verifying your email before accessing advanced features.   
 * **OAuth Integration :** Sign in with Google, Facebook, or other social media platforms for a faster and convenient experience.  
 * **Lazy Loading :** Dynamically load property listings as you scroll, improving performance and reducing initial load times.  
-* **Click Tracking :** Monitor and store user interactions with listings to better understand preferences and behaviors.  
+* **Click Tracking :** Monitor and store user interactions with listings to better understand preferences and behaviors.
 * **AI-Powered Recommendations :** Utilize collected data to deliver personalized property suggestions, enhancing the user experience and relevance of search results.
+
 
 ## Technology Stack
 * **Vite :** A fast build tool and development server for modern web projects.
@@ -78,6 +79,10 @@ Ensure all dependencies are installed and environment variables are correctly co
 
 ## Screenshots
 
+### Adding the House (Listing)
+https://github.com/user-attachments/assets/fde0c75d-1e80-4178-a6b3-ce3a8d2f5da9
+
+
 ### Home Page
 ![image](https://github.com/user-attachments/assets/f94b1bff-4f5a-4a99-95ab-44926b08ea6a)
 
@@ -86,6 +91,10 @@ Ensure all dependencies are installed and environment variables are correctly co
 
 ### About
 ![image](https://github.com/user-attachments/assets/cab47b8a-a8de-4fbb-bbc5-6e102f6aa0f7)
+
+
+
+
 
 
 
