@@ -1,6 +1,8 @@
 # Xenon Estate
 `Xenon Estate` is a `MERN` stack real estate website designed to streamline property browsing, buying, and selling. It utilizes `MongoDB` for efficient data storage, `Express.js` for scalable server management, `React` for an intuitive and dynamic user interface, and `Node.js` for robust backend functionality. Enhanced with advanced authentication options, the platform supports `email-password login` as well as `Google authentication`. Additionally, `AI-driven` property `recommendations` ensure a personalized user experience, helping buyers and sellers make informed decisions. This modern, secure platform offers an optimized solution for seamless real estate transactions.  
 
+## Live Link
+[https://real-estate-xenon.onrender.com/](https://real-estate-xenon.onrender.com/)
 
 
 ## Features  
